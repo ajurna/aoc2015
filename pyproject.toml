@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.9.0"
 parse = "^1.19.0"
 coverage = "^6.2"
+sympy = "^1.9"
 
 [tool.poetry.dev-dependencies]
 
