@@ -5,9 +5,9 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9.0"
+python = "^3.12"
 parse = "^1.19.0"
-coverage = "^6.2"
+coverage = "^7.3"
 sympy = "^1.9"
 
 [tool.poetry.dev-dependencies]
