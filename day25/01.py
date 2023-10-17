@@ -15,7 +15,6 @@ class Point:
             self.col += 1
             
 
-
 p = Point()
 target = Point(2947, 3029)
 number = 20151125
